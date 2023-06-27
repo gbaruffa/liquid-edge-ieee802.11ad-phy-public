@@ -1,0 +1,16 @@
+# Desktop files
+*.db
+*.DS_Store
+
+# Visual Studio files
+*.vscode
+
+# MATLAB files
+*.asv
+*.mat
+
+# aux files
+data/measured_channels
+src/results/*.fig
+src/results/*.pdf
+src/results/*.png
