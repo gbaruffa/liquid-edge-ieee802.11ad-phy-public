@@ -9,7 +9,7 @@ The standard receiver is improved, at the PHY layer, with some additional featur
 
 Full details of the new techniques are given in the paper below, which you are kindly asked to cite in case some code from this repository is used:
 
-> G. Baruffa, L. Rugini, "Improved Channel Estimation and Equalization for Single-Carrier IEEE 802.11ad Receivers," submitted to _Radioengineering_, 2023.
+> G. Baruffa, L. Rugini, "Improved Channel Estimation and Equalization for Single-Carrier IEEE 802.11ad Receivers," _Radioengineering_, vol. 32, no. 3, Sep. 2023. DOI: [10.13164/re.2023.0451](https://dx.doi.org/10.13164/re.2023.0451).
 
 ## Features
 
@@ -91,4 +91,4 @@ The NMSE performance of the tested channel estimators can be assessed using the 
 1. "IEEE Standard for Information technology--Telecommunications and information exchange between systems--Local and metropolitan area networks--Specific requirements-Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications Amendment 3: Enhancements for Very High Throughput in the 60 GHz Band," in _IEEE Std 802.11ad-2012 (Amendment to IEEE Std 802.11-2012, as amended by IEEE Std 802.11ae-2012 and IEEE Std 802.11aa-2012)_, pp.1-628, 28 Dec. 2012, doi: 10.1109/IEEESTD.2012.6392842
 2. P. Liu, J. Blumenstein, N. S. Perović, M. Di Renzo and A. Springer, "Performance of Generalized Spatial Modulation MIMO Over Measured 60GHz Indoor Channels," in _IEEE Transactions on Communications_, vol. 66, no. 1, pp. 133-148, Jan. 2018. doi: 10.1109/TCOMM.2017.2754280 URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8046024&isnumber=8258580
 3. J. Blumenstein, J. Milos, L. Polak and C. Mecklenbräuker, "IEEE 802.11ad SC-PHY Layer Simulator: Performance in Real-world 60 GHz Indoor Channels," _2019 IEEE Nordic Circuits and Systems Conference (NORCAS): NORCHIP and International Symposium of System-on-Chip (SoC)_, Helsinki, Finland, 2019, pp. 1-4, doi: 10.1109/NORCHIP.2019.8906960
-4. G. Baruffa, L. Rugini, "Improved Channel Estimation and Equalization for Single-Carrier IEEE 802.11ad Receivers," submitted to _Radioengineering_, 2023
+4. G. Baruffa, L. Rugini, "Improved Channel Estimation and Equalization for Single-Carrier IEEE 802.11ad Receivers," _Radioengineering_, vol. 32, no. 3, Sep. 2023. DOI: [10.13164/re.2023.0451](https://dx.doi.org/10.13164/re.2023.0451)
